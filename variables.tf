@@ -1,3 +1,7 @@
+variable "vpc_cidr" {
+  
+}
+
 variable "common_tags" {
     default = {
         project = "expense"
